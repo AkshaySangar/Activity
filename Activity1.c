@@ -6,6 +6,7 @@ int main()
   int res;
   
   res=num1+num2;
+  printf("Result of addition is : %d\n",res);
   
   if(res%2==0)
     printf("Result is even");
