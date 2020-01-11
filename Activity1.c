@@ -9,7 +9,7 @@ int main()
   printf("Result of addition is : %d\n",res);
   
   if(res%2==0)
-    printf("Result is even");
+    printf("Result of addition is even");
   else
-    printf("Result is odd");
+    printf("Result of addition is odd");
 }
